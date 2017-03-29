@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-sdfad
-=======
-sdf
-llzhang
-asdfaf
-到处都是
->>>>>>> fd3c51ac1bedc66276f688aff8b28bd22a2c9fe6
