@@ -19,6 +19,7 @@
 
 		<!-- ace styles -->
 		<link rel="stylesheet" href="assets/css/ace.min.css" class="ace-main-stylesheet" id="main-ace-style" />
+		<link rel="stylesheet" href="assets/css/index.css">
 
 		<!--[if lte IE 9]>
 			<link rel="stylesheet" href="assets/css/ace-part2.min.css" class="ace-main-stylesheet" />
@@ -42,13 +43,51 @@
 	</head>
 
 	<body class="no-skin">
+	<div class="contain">
 		<div id="navbar" class="navbar navbar-default">
 			<script type="text/javascript">
 				try{ace.settings.check('navbar' , 'fixed')}catch(e){}
 			</script>
+			<p style="font-size: 25px;" align="center">安徽省淮南市建设工程查询平台</p>
 
-			<div class="navbar-container" id="navbar-container">
-				<button type="button" class="navbar-toggle menu-toggler pull-left" id="menu-toggler" data-target="#sidebar">
+			<!--div class="navbar-container" id="navbar-container">
+			</div-->
+
+		</div>
+		<div class="img-responsive">
+		  <img src="./assets/img/home2.jpg" style="width: 100%;height: 250px;">
+		</div>
+		<div class="body">
+		  <div class="search">
+		    <img src="./assets/img/查询.png" class="imgone">
+		    <p class="p2">查询</p>
+		  </div>
+		  <div class="search">
+		    <img src="./assets/img/统计.png" class="imgone">
+		    <p class="p2">统计</p>
+		  </div>
+		  <div class="monthpaper">
+		    <img src="./assets/img/月报表.png" class="imgone">
+		    <p class="p2">月报</p>
+		  </div>
+		</div>
+		  <div class="foot">
+		   <div class="index">
+		    <a href="./index.html">
+		      <img src="./assets/img/主页.png" class="img">
+		      <p class="p1">主页</p>
+		    </a>
+		    </div>
+		    <div class="more">
+		    <a href="#">
+		      <img src="./assets/img/更多.png" class="img">
+		      <p class="p1">更多</p>
+		    </a>
+		    </div>
+		  </div>
+		  
+	</div>
+				<!--button type="button" class="navbar-toggle menu-toggler pull-left" id="menu-toggler" data-target="#sidebar">
 					<span class="sr-only">Toggle sidebar</span>
 
 					<span class="icon-bar"></span>
@@ -58,14 +97,15 @@
 					<span class="icon-bar"></span>
 				</button-->
 
-				<div class="navbar-header pull-left">
+				<!--div class="navbar-header pull-left">
 					<a href="index.html" class="navbar-brand">
 						<small>
 							<i class="fa fa-leaf"></i>
 							Ace Admin
 						</small>
 					</a>
-				</div>
+				</div-->
+				
 
 				<!--div class="navbar-buttons navbar-header pull-right" role="navigation">
 					<ul class="nav ace-nav">
@@ -1019,10 +1059,10 @@
 				</div>
 			</div-->
 
-			<a href="#" id="btn-scroll-up" class="btn-scroll-up btn btn-sm btn-inverse">
+			<!--a href="#" id="btn-scroll-up" class="btn-scroll-up btn btn-sm btn-inverse">
 				<i class="ace-icon fa fa-angle-double-up icon-only bigger-110"></i>
-			</a>
-		</div><!-- /.main-container -->
+			</a-->
+		<!-- /.main-container -->
 
 		<!-- basic scripts -->
 
