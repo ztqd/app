@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>top</title>
+		<style type="text/css">
+			.div1{height: 50px;background-color: #4bbe97;}
+			.div2{height: 50px;width: 50px;position: absolute; border: 1px;}
+		</style>
+	</head>
+	<body>
+		<div class="div1">
+			<div class="div2"><a href=""><img src="../pic/back1.png"></a></div>
+		</div>
+
+	</body>
+</html>
