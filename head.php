@@ -45,52 +45,42 @@
 	<body class="no-skin">
 	<div class="contain">
 		<div id="navbar" class="navbar navbar-default">
-			<script type="text/javascript">
-				try{ace.settings.check('navbar' , 'fixed')}catch(e){}
-			</script>
-			<p style="font-size: 25px;" align="center">安徽省淮南市建设工程查询平台</p>
-
+        </div>
+        <div class="row">
+          <div class="col-xs-12 col-sm-12" style="width: 100%;height: 250px;background-image: url('./assets/img/home2.jpg');background-size: 100% 100%;">
+          </div>
+        </div>
+        <div class="row" id="row2">
+          <div class="col-xs-2 col-sm-2 col-md-offset-2">
+            <a href="#">
+              <img src="./assets/img/查询.png">
+            </a>
+          </div>
+          <div class="col-xs-2 col-sm-2 col-md-offset-2" >
+            <a href="#">
+              <img src="./assets/img/统计.png" >
+            </a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 col-md-offset-3">
+            <a href="#">
+              <img src="./assets/img/月报表.png">
+            </a>
+          </div>
+        </div>  
 			<!--div class="navbar-container" id="navbar-container">
 			</div-->
-
-		</div>
-		<div class="img-responsive">
-		  <img src="./assets/img/home2.jpg" style="width: 100%;height: 250px;">
-		</div>
-		<div class="body">
-		  <div class="search">
-		    <img src="./assets/img/查询.png" class="imgone">
-		    <p class="p2">查询</p>
-		  </div>
-		  <div class="search">
-		    <img src="./assets/img/统计.png" class="imgone">
-		    <p class="p2">统计</p>
-		  </div>
-		  <div class="monthpaper">
-		    <img src="./assets/img/月报表.png" class="imgone">
-		    <p class="p2">月报</p>
-		  </div>
-		</div>
-		  <div class="foot">
-		   <div class="index">
-		    <a href="./index.html">
-		      <img src="./assets/img/主页.png" class="img">
-		      <p class="p1">主页</p>
-		    </a>
-		    </div>
-		    <div class="more">
-		    <a href="#">
-		      <img src="./assets/img/更多.png" class="img">
-		      <p class="p1">更多</p>
-		    </a>
-		    </div>
-		  </div>
-		  
-	</div>
+    </div>
 				<!--button type="button" class="navbar-toggle menu-toggler pull-left" id="menu-toggler" data-target="#sidebar">
 					<span class="sr-only">Toggle sidebar</span>
 
-					<span class="icon-bar"></span>
+					<sp<div id="navbar" class="navbar navbar-default">
+
+			<div class="navbar-container" id="navbar-container">
+			</div>
+
+		<span>an class="icon-bar"></span>
 
 					<span class="icon-bar"></span>
 
